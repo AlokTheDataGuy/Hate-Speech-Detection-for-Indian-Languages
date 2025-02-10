@@ -3,7 +3,7 @@
 ![Project Screenshot](/screenshot/screenshot.png)
 
 ## Overview
-This project is a **Multilingual Hate Speech Detection System** that detects hate speech in **English, Hindi, Bengali, Marathi, Telugu, and Tamil**. It supports **text input, audio analysis, and YouTube comment detection**. The system is built using a **fine-tuned MuRIL model**, a **Flask backend**, and a **React + Tailwind frontend**.
+This project is a **Multilingual Hate Speech Detection System** that detects hate speech in **English, Hindi, Bengali and Marathi**. It supports **text input, and YouTube comment detection**. The system is built using a **fine-tuned MuRIL model**, a **Flask backend**, and a **React + Tailwind frontend**.
 
 ## Features
 - **Multilingual Text Detection**: Supports multiple Indian languages.
