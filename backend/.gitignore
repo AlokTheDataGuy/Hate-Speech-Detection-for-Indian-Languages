@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.vercel
+training/muril_hate_speech_model/
+training/results/

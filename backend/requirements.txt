@@ -1,0 +1,11 @@
+flask==2.0.1
+transformers==4.46.2
+torch==2.5.1+cu118
+gunicorn==20.1.0
+accelerate==1.1.1
+datasets==3.1.0
+scikit-learn==1.5.2
+tensorflow==2.18.0
+tensorboard==2.18.0
+tqdm==4.67.0
+pillow==10.2.0
