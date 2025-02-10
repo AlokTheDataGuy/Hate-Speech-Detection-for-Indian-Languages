@@ -28,7 +28,7 @@ This project is a **Multilingual Hate Speech Detection System** that detects hat
 ### Backend Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/multilingual-hate-speech.git
+git clone https://github.com/lazylad99/multilingual-hate-speech.git
 cd multilingual-hate-speech/backend
 
 # Create a virtual environment
