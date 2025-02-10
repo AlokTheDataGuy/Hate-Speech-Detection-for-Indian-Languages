@@ -80,5 +80,5 @@ Since the model files and results folder have been removed due to their large si
 - **Alok Deep** ([@lazylad99](https://github.com/lazylad99))
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
